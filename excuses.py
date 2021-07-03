@@ -30,11 +30,11 @@ scapegoat = [
 
 delay = [
     "just shit the bed.",
-    "died in front of me."
+    "died in front of me.",
     "won't stop telling me knock knock jokes.",
     "is having a nervous breakdown.",
     "gave me syphillis.",
-    "poured lemonade in my gas tank"
+    "poured lemonade in my gas tank",
     "stabbed me.",
     "found my box of human teeth.",
     "stole my bicycle.",
